@@ -1,0 +1,28 @@
+header{
+    background: white;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+    display: flex;
+    vertical-align: middle;
+}
+
+.background-icon{
+    background-image: url(../images/icon.png);
+    background-repeat: no-repeat;
+    width: 45px;
+    height: 45px;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-size: cover;
+
+}
+
+.logo_name{
+    margin left: 10px;
+    font-size: 20px;
+    margin-top: 20px;
+    
+}
+
+
